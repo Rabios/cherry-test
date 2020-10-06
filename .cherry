@@ -1,0 +1,20 @@
+return {
+  _NAME = "cherry-test",
+  _URL = "https://github.com/Rabios/cherry-test",
+  _LICENSE = "MIT (X11)",
+  _CODENAME = "App",
+  _AUTHOR = "steria773 (Rabia Alhaffar)",
+  _VERSION = "0.1",
+  _BRANCH = "master",
+  description = [[
+    test for using cherry platform!
+  ]],
+  lib = {
+    src = {
+	  "test.lua"
+	},
+	shared = {},
+	dependencies = {},
+	main = "test.lua"
+  }
+}
