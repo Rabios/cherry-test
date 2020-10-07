@@ -6,6 +6,7 @@ return {
   _AUTHOR = "steria773 (Rabia Alhaffar)",
   _VERSION = "0.1",
   _BRANCH = "master",
+  _APP = false,
   description = [[
     test for using cherry platform!
   ]],
