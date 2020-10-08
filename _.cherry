@@ -14,8 +14,6 @@ return {
     src = {
 	  "test.lua"
 	},
-	shared = {},
-	dependencies = {},
 	main = "test.lua"
   }
 }
