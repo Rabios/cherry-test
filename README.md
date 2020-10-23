@@ -1,6 +1,6 @@
 # cherry-test
 
-This is test for [cherry](https://github.com/Rabios/cherry) package manager!
+This is test for [cherry package manager](https://github.com/Rabios/cherry).
 
 ### Installation
 
